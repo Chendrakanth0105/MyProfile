@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am chendra kanth. I am pursuing MSc Data science course in Christ University Lavasa Campus. I have 1 year 8 months experience as a programmer in Cognizant.
 <!--
 **Chendrakanth0105/chendrakanth0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
