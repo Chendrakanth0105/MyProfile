@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am chendra kanth.<be>
+I am chendra kanth.<br>
 I am pursuing an M.S.c Data science course at Christ University Lavasa Campus.<br>
 I have one year and eight months of experience as a programmer in Cognizant.<br>
 <!--
